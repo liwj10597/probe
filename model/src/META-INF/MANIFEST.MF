@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Premain-Class: com.data.common.PrintAgent
+Can-Redefine-Classes: true
+
+
